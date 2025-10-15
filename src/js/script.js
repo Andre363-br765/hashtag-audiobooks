@@ -37,7 +37,7 @@ function capituloAnterior() {
     capitulo -= 1;
   }
 
-  audio.src = "/src/assets/audios/" + capitulo + ".mp3";
+  audio.src = "./src/assets/audios/" + capitulo + ".mp3";
   nomeCapitulo.innerText = "Capítulo " + capitulo;
 }
 
@@ -50,7 +50,7 @@ function proximoCapitulo() {
     capitulo = 1;
   }
 
-  audio.src = "/src/assets/audios/" + capitulo + ".mp3";
+  audio.src = "./src/assets/audios/" + capitulo + ".mp3";
   nomeCapitulo.innerText = "Capítulo " + capitulo;
 }
 
