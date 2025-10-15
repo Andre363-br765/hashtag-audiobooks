@@ -1,0 +1,15 @@
+# Sistema
+.DS_Store
+Thumbs.db
+
+# Editor
+.vscode/
+*.log
+
+# Node modules
+node_modules/
+
+# Áudios grandes
+# *.mp3
+
+docs
