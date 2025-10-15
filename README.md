@@ -20,4 +20,4 @@ Permite ouvir capítulos de livros, navegar entre eles e visualizar informaçõe
 - `src/assets/audios/` - arquivos de áudio  
 
 ## 🔗 Link do Projeto
-[Veja o projeto aqui]()
+[Veja o projeto aqui](https://andre363-br765.github.io/hashtag-audiobooks/)
